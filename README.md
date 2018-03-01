@@ -2,7 +2,8 @@
 
 > 演示DEMO
 
-[点击我查看](https://github.com/garfield8850/TimeLine/blob/master/index.html)
+[点击我查看](http://htmlpreview.github.io/?https://github.com/garfield8850/TimeLine/blob/master/index.html)
+
 
 > 效果预览
 
