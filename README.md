@@ -3,7 +3,7 @@
 
 > 效果预览
 
-![](https://github.com/garfield8850/TimeLine/tree/master/demo.png)  
+![](https://raw.githubusercontent.com/garfield8850/TimeLine/e361281c717167a1896c38e3c633dd75183c36b8/demo.png)
 
 > 使用方法
 
