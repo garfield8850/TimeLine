@@ -9,7 +9,7 @@
 
 
 
-<pre><code>
+```javascript
 var timeline = new TimeLine({
     container: 'timeline',
     data: {
@@ -32,4 +32,4 @@ var timeline = new TimeLine({
             {text: 'Hello World', date: '2013-08-02'}]
     }
 });
-</code></pre>
+```
