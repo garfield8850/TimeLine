@@ -1,11 +1,11 @@
 # TimeLine 时间控件
 
 
-###效果预览
+> 效果预览
 
 ![](https://github.com/guodongxiaren/ImageCache/raw/master/Logo/foryou.gif)  
 
-###使用方法
+> 使用方法
 
 
 
