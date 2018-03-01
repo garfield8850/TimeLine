@@ -1,9 +1,12 @@
 # TimeLine 时间控件
 
+> 演示DEMO
+
+[点击我查看](https://github.com/garfield8850/TimeLine/blob/master/index.html)
 
 > 效果预览
 
-![](https://raw.githubusercontent.com/garfield8850/TimeLine/f51bd373621bebb7f8f47da7bb706342a863889c/demo.png)
+![](https://github.com/garfield8850/TimeLine/blob/master/demo.png)
 
 > 使用方法
 
