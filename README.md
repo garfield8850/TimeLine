@@ -3,7 +3,7 @@
 
 > 效果预览
 
-![](https://github.com/guodongxiaren/ImageCache/raw/master/Logo/foryou.gif)  
+![](https://github.com/garfield8850/TimeLine/tree/master/demo.png)  
 
 > 使用方法
 
